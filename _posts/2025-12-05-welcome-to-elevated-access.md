@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Welcome to TRS Blog"
+title: "Welcome to Elevated Access"
 date: 2025-12-05
 author: example
 categories: announcements
 ---
 
-# Welcome to TRS Blog
+# Welcome to Elevated Access
 
 This is the inaugural post for our technical blog focused on red team operations and offensive security.
 
@@ -36,7 +36,7 @@ Stay tuned for more technical content!
 
 ```bash
 # Example code block
-echo "Welcome to TRS Blog"
+echo "Welcome to Elevated Access"
 ```
 
 Happy hacking!

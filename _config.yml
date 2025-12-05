@@ -1,12 +1,12 @@
 # Site settings
-title: Red Team Security Blog
-author: TRS Team
+title: Elevated Access
+author: Elevated Access Team
 email: your-email@example.com
 description: >-
   Technical blog covering red team operations, penetration testing,
   and offensive security research.
-url: ""
-baseurl: ""
+url: "https://chryzsh.github.io"
+baseurl: "/elevated-access"
 
 # Theme settings
 remote_theme: abhinavs/moonwalk

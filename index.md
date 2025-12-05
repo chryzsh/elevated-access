@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Welcome to TRS Blog
+# Welcome to Elevated Access
 
 A technical blog focused on red team operations, penetration testing, and offensive security research.
 

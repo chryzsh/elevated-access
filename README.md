@@ -1,4 +1,4 @@
-# TRS Blog
+# Elevated Access
 
 A technical blog for red team operations, penetration testing, and offensive security research. Built with Jekyll and hosted on GitHub Pages using the Moonwalk theme.
 

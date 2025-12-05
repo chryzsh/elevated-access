@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About TRS Blog
+# About Elevated Access
 
 This blog serves as a platform for sharing technical knowledge, research, and insights in the field of offensive security and red team operations.
 
