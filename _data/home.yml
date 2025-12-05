@@ -1,0 +1,10 @@
+project_entries:
+  - title: Recent Posts
+    url: false
+    post_list: true
+
+  - title: About
+    url: /about
+
+  - title: All Articles
+    url: /articles
