@@ -1,10 +1,13 @@
-project_entries:
-  - title: Recent Posts
-    url: false
-    post_list: true
+navbar_entries:
+  - title: about
+    url: about
 
-  - title: About
-    url: /about
+  - title: articles
+    url: articles
 
-  - title: All Articles
-    url: /articles
+  - title: authors
+    url: authors
+
+footer_entries:
+  - title: feed
+    url: feed.xml

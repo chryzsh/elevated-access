@@ -18,17 +18,14 @@ theme_config:
   show_description: true
   show_navbar: true
   show_footer: true
-
-# Navigation
-navigation:
-  - title: Home
-    url: /
-  - title: Articles
-    url: /articles
-  - title: Authors
-    url: /authors
-  - title: About
-    url: /about
+  show_blog: true
+  show_projects: false
+  show_old_projects: false
+  show_misc_list: false
+  show_reading_time: true
+  show_tags: true
+  home:
+    title_blog: "Recent Posts"
 
 # Build settings
 markdown: kramdown
